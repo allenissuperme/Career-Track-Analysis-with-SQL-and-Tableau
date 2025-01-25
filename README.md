@@ -13,7 +13,7 @@ This project involves analyzing student enrollments and completions in data-rela
 ## Files in the Repository
 
 - `sql_and_tableau.sql`: The SQL file used to create and populate the database.
-- `career_track_completions.csv`: The dataset extracted using SQL, which is then used in Tableau.
+- `Career Track Analysis with SQL and Tableau Project results.csv`: The dataset extracted using SQL, which is then used in Tableau.
 
 ## SQL Data Extraction
 
