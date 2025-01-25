@@ -78,7 +78,7 @@ FROM
 
 The result of the above query is exported as `Career Track Analysis with SQL and Tableau Project results.csv`.
 
-![image alt]()
+![image alt](https://github.com/allenissuperme/Career-Track-Analysis-with-SQL-and-Tableau/blob/main/SQL%20results.png?raw=true)
 
 ## Tableau Visualizations
 
