@@ -76,7 +76,9 @@ FROM
 
 ### Export to CSV
 
-The result of the above query is exported as `career_track_completions.csv`.
+The result of the above query is exported as `Career Track Analysis with SQL and Tableau Project results.csv`.
+
+
 
 ## Tableau Visualizations
 
@@ -104,6 +106,8 @@ The result of the above query is exported as `career_track_completions.csv`.
 2. **Remove NULL Values**: Ensure the NULL values are removed.
 3. **Order Bars**: Same day, 1 to 7 days, 8 to 30 days, 31 to 60 days, 61 to 90 days, 91 to 365 days, 366+ days.
 4. **Filter by Career Track**: Drag `track_name` to Filters and show filter.
+
+
 
 
 
