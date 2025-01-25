@@ -108,7 +108,7 @@ The result of the above query is exported as `Career Track Analysis with SQL and
 4. **Filter by Career Track**: Drag `track_name` to Filters and show filter.
 
 
-![image alt]()
+![image alt](https://github.com/allenissuperme/Career-Track-Analysis-with-SQL-and-Tableau/blob/main/Tableau%20results.png?raw=true)
 
 
 ## Conclusion
