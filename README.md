@@ -78,7 +78,7 @@ FROM
 
 The result of the above query is exported as `Career Track Analysis with SQL and Tableau Project results.csv`.
 
-
+![image alt]()
 
 ## Tableau Visualizations
 
@@ -108,7 +108,7 @@ The result of the above query is exported as `Career Track Analysis with SQL and
 4. **Filter by Career Track**: Drag `track_name` to Filters and show filter.
 
 
-
+![image alt]()
 
 
 ## Conclusion
